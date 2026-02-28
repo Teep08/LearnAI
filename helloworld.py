@@ -1,2 +1,2 @@
-# First python program 
+# First python program
 print("Hello World")
